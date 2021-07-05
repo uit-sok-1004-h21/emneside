@@ -5,7 +5,8 @@
 Forelesnings- og seminarplanene inneholder informasjon om tidspunkt, tema, faglærer samt ressurser/oppgaver til hvert tema.  
 
 - [Forelesningsplan](forelesningsplan.md){:target="blank"}
-- [Seminarplan](seminarplan.md){:target="blank"}  
+- [Seminarplan](seminarplan.md){:target="blank"}
+- [Evalueringsplan](evalueringsplan.md){:target="blank"}  
 
 
 [Timeplan](http://timeplan.uit.no/emne_timeplan.php?sem=21h&module%5B%5D=SOK-1004-1){:target="blank"} på timeplan.uit.no
@@ -23,7 +24,9 @@ Kurset tas normalt i første høstsemester, og teller 15 studiepoeng.
 
 ## Pensum  
 
-[Core online text](https://www.core-econ.org/the-economy/book/text/0-3-contents.html){:target="blank"}  
+[Leganto](https://bibsys-c.alma.exlibrisgroup.com/leganto/readinglist/lists/8430615560002205?auth=SAML){:target="blank"}
+- [The Economy - CORE](https://www.core-econ.org/the-economy/book/text/0-3-contents.html){:target="blank"}
+- [Learn RStudio IDE: Quick, Effective, and Productive Data Science - Matthew Campbell](https://link.springer.com/content/pdf/10.1007%2F978-1-4842-4511-8.pdf){:target="blank"}
 
 ## Forkunnskaper  
 Dette kurset er ex. fac. for bachelorstudiet i Samfunnsøkonomi med datavitenskap.  
@@ -49,11 +52,6 @@ Frister, oppgaver og ressurser finnes i [evalueringsplanen](evalueringsplan.md){
 
 Besvarelser leveres elektronisk i [Wiseflow](https://europe.wiseflow.net/login/license/6){:target="blank"}.  
 
-## Studentenes evaluering av kurset  
-
-Kurset evalueres av studenter midtveis i semesteret og ved kursets slutt. Nedenfor finner du detaljer om evalueringsmetodene.
-- Midtveis
-- Slutt
 
 
 ## FAQ - Ofte stilte spørsmål og svar
