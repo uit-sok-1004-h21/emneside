@@ -6,8 +6,8 @@
 |F2  | RStudio  | ØM |    |
 |F3   | Programmering         | ØM        |  |
 |F4    | R | ØM |  |
-|F5   | Bruttonasjonalprodukt (BNP)    | DC       | [Core Kap. 1](/CORE/The Economy_ Unit 1 The capitalist revolution.pdf){:target='_blank_'}  |
-|F6     | Markedsøkonomien  | DC | [Core Kap. 1](/CORE/The Economy_ Unit 1 The capitalist revolution.pdf){:target='_blank_'}   |
+|F5   | Bruttonasjonalprodukt (BNP)    | DC       | [Core Kap. 1](CORE/The Economy_ Unit 1 The capitalist revolution.pdf){:target='_blank_'}  |
+|F6     | Markedsøkonomien  | DC | [Core Kap. 1](CORE/The Economy_ Unit 1 The capitalist revolution.pdf){:target='_blank_'}   |
 |F7 | Case 1a: Bruttonasjonalprodukt - BNP | ØM       | [lenker til case og R kode](https://oysteinm.github.io/uit-sok-1004-h21/){:target='_blank_'} |
 |F8   | Case 1b: Årlig bruttonasjonalprodukt 1865-2011  | ØM  |  [lenker til case og R kode](https://oysteinm.github.io/uit-sok-1004-h21/){:target='_blank_'} |
 |F9    | Grunnleggende begreper i samfunnsøkonomi           | DC |   |
