@@ -1,6 +1,6 @@
 ## Seminarplan
 
-| Dato, tid og sted <img width=150/>  | Seminargruppe <img width=100/> | Tema  <img width=250/>     | Lærer <img width=100/>  | Ressurser <img width=200/>  |
+| Seminarnr. <img width=150/>  | Seminargruppe <img width=100/> | Tema  <img width=250/>     | Lærer <img width=100/>  | Ressurser <img width=200/>  |
 |----------------|-------------------|----------------------------------------------------------------------|-----------|--------------------------------------|
 |  S1  | Gruppe 1 |  Øving i R                      | Stud Ass       |    |
 |  S1 | Gruppe 2 |  Øving i R                      | Stud Ass       |    |
