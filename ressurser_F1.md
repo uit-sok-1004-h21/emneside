@@ -35,3 +35,5 @@ Interaktiv nettside ["The Economist - global-house-prices"](https://www.economis
 Nettside ["An introduction to Git and how to use it with RStudio"](https://r-bio.github.io/intro-git-rstudio/){:target="_blank"}
 
 Nettside [PhD comics "Final".doc](http://phdcomics.com/comics/archive.php?comicid=1531){:target="_blank"}
+
+R kode til [google trends figur](google_trends.R){:target="_blank"}
