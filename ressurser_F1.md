@@ -8,15 +8,19 @@ layout: default
 
 Nettside [freakonomics.com](https://freakonomics.com/){:target="_blank"}
 
-Nettside ["What is data science?"](https://www.oreilly.com/radar/what-is-data-science/){:target="_blank"}
+Nettartikkel O'reilly (2010) ["What is data science?"](https://www.oreilly.com/radar/what-is-data-science/){:target="_blank"}
 
 Vitenskapelig artikkel "Curriculum Guidelines for Undergraduate Programs in Data Science" [De Veaux et al. (2017) Annual Review of Statistics and Its Application](https://www.amstat.org/asa/files/pdfs/EDU-DataScienceGuidelines.pdf){:target="_blank"}
 
-Nyhetsartikkel i "The Atlantic" ["THE SCIENTIFIC PAPER IS OBSOLETE"](https://www.theatlantic.com/science/archive/2018/04/the-scientific-paper-is-obsolete/556676/){:target="_blank"}
+Nettartikkel Forbes (2014) ["How Big Data Can Predict The Wine Of The Century"] https://www.forbes.com/sites/sap/2014/04/30/how-big-data-can-predict-the-wine-of-the-century/?sh=71e2583e31a9
 
-Vitenskapelig artikkel "Collective dynamics of ‘small-world’ networks" [Watts & Strogatz (1998) Nature](https://www.nature.com/articles/30918){:target="_blank"}
+Nettartikkel (2020) ["How an Economist Cracked the Wine Business by Predicting Prices With 90% Accuracy"](https://entrepreneurshandbook.co/how-an-economist-cracked-the-wine-business-by-predicting-prices-with-90-accuracy-3bc996456f80){:target="_blank"}
 
-Interaktiv vitenskapelig artikkel [Scientific Communication As Sequential Art](http://worrydream.com/ScientificCommunicationAsSequentialArt/){:target="_blank"}
+Nyhetsartikkel i The Atlantic (2018) ["THE SCIENTIFIC PAPER IS OBSOLETE"](https://www.theatlantic.com/science/archive/2018/04/the-scientific-paper-is-obsolete/556676/){:target="_blank"}
+
+Vitenskapelig artikkel "Collective dynamics of ‘small-world’ networks", nevnt i lenken over. [Watts & Strogatz (1998) Nature](https://www.nature.com/articles/30918){:target="_blank"}
+
+Interaktiv vitenskapelig artikkel, basert på lenken over. [Scientific Communication As Sequential Art](http://worrydream.com/ScientificCommunicationAsSequentialArt/){:target="_blank"}
 
 [Project jupyter](https://en.wikipedia.org/wiki/Project_Jupyter){:target="_blank"}
 
@@ -28,4 +32,4 @@ Interaktiv nettside ["The Economist - big-mac-index"](https://www.economist.com/
 
 Interaktiv nettside ["The Economist - global-house-prices"](https://www.economist.com/graphic-detail/global-house-prices){:target="_blank"}
 
-Nettside ["How an Economist Cracked the Wine Business by Predicting Prices With 90% Accuracy"](https://entrepreneurshandbook.co/how-an-economist-cracked-the-wine-business-by-predicting-prices-with-90-accuracy-3bc996456f80){:target="_blank"}
+
