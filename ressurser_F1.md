@@ -28,4 +28,4 @@ Nettside ["The Economist - big-mac-index"](https://www.economist.com/big-mac-ind
 
 Nettside ["The Economist - global-house-prices"](https://www.economist.com/graphic-detail/global-house-prices){:target="_blank"}
 
-https://entrepreneurshandbook.co/how-an-economist-cracked-the-wine-business-by-predicting-prices-with-90-accuracy-3bc996456f80
+Nettside ["How an Economist Cracked the Wine Business by Predicting Prices With 90% Accuracy"](https://entrepreneurshandbook.co/how-an-economist-cracked-the-wine-business-by-predicting-prices-with-90-accuracy-3bc996456f80){:target="_blank"}
