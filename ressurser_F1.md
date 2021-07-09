@@ -2,4 +2,8 @@
 layout: default
 ---
 
+# Ressurser forelesning 1
+
 Artikkel i The Atlantic [THE SCIENTIFIC PAPER IS OBSOLETE](https://www.theatlantic.com/science/archive/2018/04/the-scientific-paper-is-obsolete/556676/){:target="_blank"}
+
+[Slides](https://docs.google.com/presentation/d/e/2PACX-1vRy78sT6-RFbjZ-CH6v--cQZURA29pbd4aXDLQ9Gdv-Q1nXtiBWi8ApbT-L1JSyngsR6JvzWEGnACSb/pub?start=false&loop=false&delayms=5000){:target="_blank"}
