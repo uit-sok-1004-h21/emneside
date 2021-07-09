@@ -2,7 +2,7 @@
 
 | Forelesning <img width=80/>   | Tema                                                              | Lærer  | Ressurser <img width=200/>  |
 |----------------|----------------------------------------------------------------------|-----------|--------------------------------------|
-|F1   | Innledning og kursplan                        | DC/ØM       | [Ressursside](ressurser_F1.md){:target='_blank_'}   |
+|F1   | Innledning og kursplan                        | DC/ØM       | [Ressursside (ØM)](ressurser_F1.md){:target='_blank_'}   |
 |F2  | RStudio  | ØM |    |
 |F3   | Programmering         | ØM        |  |
 |F4    | R | ØM |  |
