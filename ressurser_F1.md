@@ -4,7 +4,7 @@ layout: default
 
 # Ressurser forelesning 1
 
-**[Slides]**(https://docs.google.com/presentation/d/e/2PACX-1vRy78sT6-RFbjZ-CH6v--cQZURA29pbd4aXDLQ9Gdv-Q1nXtiBWi8ApbT-L1JSyngsR6JvzWEGnACSb/pub?start=false&loop=false&delayms=5000){:target="_blank"}
+[Slides](https://docs.google.com/presentation/d/e/2PACX-1vRy78sT6-RFbjZ-CH6v--cQZURA29pbd4aXDLQ9Gdv-Q1nXtiBWi8ApbT-L1JSyngsR6JvzWEGnACSb/pub?start=false&loop=false&delayms=5000){:target="_blank"}
 
 [freakonomics.com](https://freakonomics.com/){:target="_blank"}
 
@@ -12,9 +12,17 @@ Curriculum Guidelines for Undergraduate Programs in Data Science [De Veaux et al
 
 Artikkel i The Atlantic [THE SCIENTIFIC PAPER IS OBSOLETE](https://www.theatlantic.com/science/archive/2018/04/the-scientific-paper-is-obsolete/556676/){:target="_blank"}
 
+http://worrydream.com/ScientificCommunicationAsSequentialArt/
+
 Artikkel "Collective dynamics of ‘small-world’ networks" [Watts & Strogatz (1998) Nature](https://www.nature.com/articles/30918){:target="_blank"}
 
+
 [Project jupyter](https://en.wikipedia.org/wiki/Project_Jupyter){:target="_blank"}
+
+An introduction to Git and how to use it with RStudio https://r-bio.github.io/intro-git-rstudio/
+
+Final http://phdcomics.com/comics/archive.php?comicid=1531
+
 
 
 
