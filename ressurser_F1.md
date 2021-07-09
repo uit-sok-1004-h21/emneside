@@ -28,7 +28,7 @@ Interaktiv nettside ["The Economist - big-mac-index"](https://www.economist.com/
 
 Interaktiv nettside ["The Economist - global-house-prices"](https://www.economist.com/graphic-detail/global-house-prices){:target="_blank"}
 
-[Project jupyter](https://en.wikipedia.org/wiki/Project_Jupyter){:target="_blank"}
+[Project jupyter](https://jupyter.org){:target="_blank"}
 
 [rstudio.uit.no](http://rstudio.uit.no){:target="_blank"}
 
