@@ -12,17 +12,13 @@ Curriculum Guidelines for Undergraduate Programs in Data Science [De Veaux et al
 
 Artikkel i The Atlantic [THE SCIENTIFIC PAPER IS OBSOLETE](https://www.theatlantic.com/science/archive/2018/04/the-scientific-paper-is-obsolete/556676/){:target="_blank"}
 
-http://worrydream.com/ScientificCommunicationAsSequentialArt/
+[Scientific Communication As Sequential Art](http://worrydream.com/ScientificCommunicationAsSequentialArt/){:target="_blank"}
 
 Artikkel "Collective dynamics of ‘small-world’ networks" [Watts & Strogatz (1998) Nature](https://www.nature.com/articles/30918){:target="_blank"}
 
-
 [Project jupyter](https://en.wikipedia.org/wiki/Project_Jupyter){:target="_blank"}
 
-An introduction to Git and how to use it with RStudio https://r-bio.github.io/intro-git-rstudio/
+Nettside ["An introduction to Git and how to use it with RStudio"](https://r-bio.github.io/intro-git-rstudio/){:target="_blank"}
 
-Final http://phdcomics.com/comics/archive.php?comicid=1531
-
-
-
+PhD comics [Final](http://phdcomics.com/comics/archive.php?comicid=1531){:target="_blank"}
 
