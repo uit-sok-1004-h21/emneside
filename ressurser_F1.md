@@ -16,6 +16,8 @@ Nettartikkel Forbes (2014) ["How Big Data Can Predict The Wine Of The Century"](
 
 Nettartikkel (2020) ["How an Economist Cracked the Wine Business by Predicting Prices With 90% Accuracy"](https://entrepreneurshandbook.co/how-an-economist-cracked-the-wine-business-by-predicting-prices-with-90-accuracy-3bc996456f80){:target="_blank"}
 
+Google Scholar søk [orley ashenfelter wine formula](https://scholar.google.no/scholar?q=orley+ashenfelter+wine+formula&hl=no&as_sdt=0&as_vis=1&oi=scholart){:target="_blank"}
+
 Nyhetsartikkel i The Atlantic (2018) ["THE SCIENTIFIC PAPER IS OBSOLETE"](https://www.theatlantic.com/science/archive/2018/04/the-scientific-paper-is-obsolete/556676/){:target="_blank"}
 
 Vitenskapelig artikkel "Collective dynamics of ‘small-world’ networks", nevnt i lenken over. [Watts & Strogatz (1998) Nature](https://www.nature.com/articles/30918){:target="_blank"}
