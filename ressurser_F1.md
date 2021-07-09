@@ -27,3 +27,5 @@ PhD comics [Final](http://phdcomics.com/comics/archive.php?comicid=1531){:target
 Nettside ["The Economist - big-mac-index"](https://www.economist.com/big-mac-index){:target="_blank"}
 
 Nettside ["The Economist - global-house-prices"](https://www.economist.com/graphic-detail/global-house-prices){:target="_blank"}
+
+https://entrepreneurshandbook.co/how-an-economist-cracked-the-wine-business-by-predicting-prices-with-90-accuracy-3bc996456f80
