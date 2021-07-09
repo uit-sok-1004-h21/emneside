@@ -8,6 +8,8 @@ layout: default
 
 [freakonomics.com](https://freakonomics.com/){:target="_blank"}
 
+Nettside ["What is data science?"](https://www.oreilly.com/radar/what-is-data-science/){:target="_blank"}
+
 Curriculum Guidelines for Undergraduate Programs in Data Science [De Veaux et al. (2017) Annual Review of Statistics and Its Application](https://www.amstat.org/asa/files/pdfs/EDU-DataScienceGuidelines.pdf){:target="_blank"}
 
 Artikkel i The Atlantic [THE SCIENTIFIC PAPER IS OBSOLETE](https://www.theatlantic.com/science/archive/2018/04/the-scientific-paper-is-obsolete/556676/){:target="_blank"}
@@ -22,3 +24,6 @@ Nettside ["An introduction to Git and how to use it with RStudio"](https://r-bio
 
 PhD comics [Final](http://phdcomics.com/comics/archive.php?comicid=1531){:target="_blank"}
 
+Nettside ["The Economist - big-mac-index"](https://www.economist.com/big-mac-index){:target="_blank"}
+
+Nettside ["The Economist - global-house-prices"](https://www.economist.com/graphic-detail/global-house-prices){:target="_blank"}
