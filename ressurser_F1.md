@@ -38,4 +38,4 @@ Nettside [PhD comics "Final".doc](http://phdcomics.com/comics/archive.php?comici
 
 R kode til [google trends figur **R code download**](google_trends.R){:target="_blank"}
 
-R kode til [google trends figur **R code on github**](https://github.com/uit-sok-1004-h21/blob/main/case_1a_bnp.R){:target="_blank"}
+R kode til [google trends figur **R code on github**](https://github.com/uit-sok-1004-h21/emneside/blob/main/google_trends.R){:target="_blank"}
