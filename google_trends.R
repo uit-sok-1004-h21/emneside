@@ -16,7 +16,7 @@ dframe %>%
   group_by(keyword) %>% 
   summarise(n())
 
-# strukuren til dataene
+# strukturen til dataene
 str(dframe)
 
 # basic plot
@@ -29,7 +29,7 @@ dframe %>%
 library(ggthemes)
 library(lubridate)
 
-# Mer avansert "The Economist" look
+# mer avansert "The Economist" look
 dframe %>% 
   mutate(hits=as.numeric(hits),
          year=year(date)) %>% 
