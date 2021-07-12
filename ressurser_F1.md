@@ -36,6 +36,6 @@ Nettside ["An introduction to Git and how to use it with RStudio"](https://r-bio
 
 Nettside [PhD comics: "Final".doc](http://phdcomics.com/comics/archive.php?comicid=1531){:target="_blank"}
 
-R kode til [google trends figur **R code download**](google_trends.R){:target="_blank"}
+R kode til [google trends figur (**R code download**)](google_trends.R){:target="_blank"}
 
-R kode til [google trends figur **R code on github**](https://github.com/uit-sok-1004-h21/emneside/blob/main/google_trends.R){:target="_blank"}
+R kode til [google trends figur (**R code on github**)](https://github.com/uit-sok-1004-h21/emneside/blob/main/google_trends.R){:target="_blank"}
