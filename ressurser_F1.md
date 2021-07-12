@@ -24,17 +24,17 @@ Vitenskapelig artikkel "Collective dynamics of ‘small-world’ networks", nevn
 
 Interaktiv vitenskapelig artikkel (2011), basert på lenken over. [Scientific Communication As Sequential Art](http://worrydream.com/ScientificCommunicationAsSequentialArt/){:target="_blank"}
 
-Interaktiv nettside ["The Economist - big-mac-index"](https://www.economist.com/big-mac-index){:target="_blank"}
+Interaktiv nettside ["The Economist: big-mac-index"](https://www.economist.com/big-mac-index){:target="_blank"}
 
-Interaktiv nettside ["The Economist - global-house-prices"](https://www.economist.com/graphic-detail/global-house-prices){:target="_blank"}
+Interaktiv nettside ["The Economist: global-house-prices"](https://www.economist.com/graphic-detail/global-house-prices){:target="_blank"}
 
 [Project jupyter](https://jupyter.org){:target="_blank"}
 
-[rstudio.uit.no](http://rstudio.uit.no){:target="_blank"}
+[rstudio.uit.no](https://rstudio.uit.no){:target="_blank"}
 
 Nettside ["An introduction to Git and how to use it with RStudio"](https://r-bio.github.io/intro-git-rstudio/){:target="_blank"}
 
-Nettside [PhD comics "Final".doc](http://phdcomics.com/comics/archive.php?comicid=1531){:target="_blank"}
+Nettside [PhD comics: "Final".doc](http://phdcomics.com/comics/archive.php?comicid=1531){:target="_blank"}
 
 R kode til [google trends figur **R code download**](google_trends.R){:target="_blank"}
 
