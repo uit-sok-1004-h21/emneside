@@ -3,9 +3,9 @@
 | Forelesning <img width=80/>   | Tema                                                              | Lærer  | Ressurser <img width=200/>  |
 |----------------|----------------------------------------------------------------------|-----------|--------------------------------------|
 |F1   | Innledning og kursplan                        | DC/ØM       | [Ressursside (ØM)](ressurser_F1.md){:target='_blank_'}   |
-|F2  | RStudio  | ØM |    |
-|F3   | Programmering         | ØM        |  |
-|F4    | R | ØM |  |
+|F2  | RStudio IDE  | ØM | Campbell Chap 1, 2 & 3   |
+|F3   | RStudio projects, reproduserbarhet og tidyverse  | ØM     | Campbell Chap 4, 5 & 6  |
+|F4    | Plots, Markdown og Git | ØM | Campbell Chap 7, 8 & 11, 12 |
 |F5   | Bruttonasjonalprodukt (BNP)    | DC       | [Core Kap. 1](CORE/The Economy_ Unit 1 The capitalist revolution.pdf){:target='_blank_'}  |
 |F6     | Markedsøkonomien  | DC | [Core Kap. 1](CORE/The Economy_ Unit 1 The capitalist revolution.pdf){:target='_blank_'}   |
 |F7 | Case 1a: Bruttonasjonalprodukt - BNP | ØM       | [lenker til case og R kode](https://oysteinm.github.io/uit-sok-1004-h21/){:target='_blank_'} |
