@@ -12,4 +12,6 @@ Her er lenkene til de ulike casene.
 
 [Case 1b: Årlig bruttonasjonalprodukt 1865-2011 **R code on github**](/blob/main/case_1b_bnp_historisk.R){:target="_blank"}
 
-https://uit-sok-1004-h21.github.io/emneside/cases/case_1a_bnp.html
+[test html](https://uit-sok-1004-h21.github.io/emneside/cases/case_1a_bnp.html)
+
+[test R github](https://github.com/uit-sok-1004-h21/cases/blob/main/case_1a_bnp.R)
