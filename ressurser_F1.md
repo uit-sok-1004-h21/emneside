@@ -30,6 +30,12 @@ Interaktiv nettside ["The Economist: global-house-prices"](https://www.economist
 
 [Project jupyter](https://jupyter.org){:target="_blank"}
 
+[python.uit.no](https://python.uit.no){:target="_blank"}
+
+[The R Project for Statistical Computing](https://www.r-project.org/){:target="_blank"}
+
+[RStudio IDE](https://www.rstudio.com/){:target="_blank"}
+
 [rstudio.uit.no](https://rstudio.uit.no){:target="_blank"}
 
 Nettside ["An introduction to Git and how to use it with RStudio"](https://r-bio.github.io/intro-git-rstudio/){:target="_blank"}
