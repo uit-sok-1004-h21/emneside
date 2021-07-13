@@ -1,6 +1,6 @@
 Her er lenkene til de ulike casene.
 
-[Case 1a: Bruttonasjonalprodukt - BNP **html file**](cases/case_1a_bnp.html){:target="_blank"}
+[Case 1a: Bruttonasjonalprodukt - BNP **html file**](emneside/cases/case_1a_bnp.html){:target="_blank"}
 
 [Case 1a: Bruttonasjonalprodukt - BNP **R code download**](cases/case_1a_bnp.R)
 
@@ -12,3 +12,4 @@ Her er lenkene til de ulike casene.
 
 [Case 1b: Årlig bruttonasjonalprodukt 1865-2011 **R code on github**](/blob/main/case_1b_bnp_historisk.R){:target="_blank"}
 
+https://uit-sok-1004-h21.github.io/emneside/cases/case_1a_bnp.html
