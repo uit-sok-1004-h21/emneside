@@ -2,7 +2,7 @@
 
 [Case 1: Bruttonasjonalprodukt - BNP **html file**](case_1_bnp.html){:target="_blank"}
 
-[Case 1a: Bruttonasjonalprodukt - BNP **R code on github**](https://github.com/uit-sok-1004-h21/cases/blob/main/case_1a_bnp.R){:target="_blank"}
+[Case 1: Bruttonasjonalprodukt - BNP **R code on github**](https://github.com/uit-sok-1004-h21/cases/blob/main/case_1_bnp.R){:target="_blank"}
 
 [Case 1b: Årlig bruttonasjonalprodukt 1865-2011 **html file**](case_1b_bnp_historisk.html){:target="_blank"}
 
