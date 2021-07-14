@@ -1,6 +1,6 @@
 # Her er lenkene til de ulike casene
 
-[Case 1a: Bruttonasjonalprodukt - BNP **html file**](case_1a_bnp.html){:target="_blank"}
+[Case 1: Bruttonasjonalprodukt - BNP **html file**](case_1_bnp.html){:target="_blank"}
 
 [Case 1a: Bruttonasjonalprodukt - BNP **R code on github**](https://github.com/uit-sok-1004-h21/cases/blob/main/case_1a_bnp.R){:target="_blank"}
 
