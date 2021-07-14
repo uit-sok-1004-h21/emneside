@@ -8,3 +8,7 @@
 
 [Case 2: Årlig bruttonasjonalprodukt 1865-2011 **R code on github**](https://github.com/uit-sok-1004-h21/cases/blob/main/case_2_bnp_historisk.R){:target="_blank"}
 
+[Case 3: Økonomisk aktivitet, $CO_2$ og global temperatur **html file**](case_3_bnp_co2_temp.html){:target="_blank"}
+
+[Case 3: Økonomisk aktivitet, $CO_2$ og global temperatur **R code on github**](https://github.com/uit-sok-1004-h21/cases/blob/main/case_3_bnp_co2_temp.R){:target="_blank"}
+
