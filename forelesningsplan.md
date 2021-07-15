@@ -8,8 +8,8 @@
 |F4    | Plots, Markdown og Git | ØM | [Campbell](https://uit.instructure.com/files/1421071/download?download_frd=1){:target='_blank_'} Chap 7, 8 & 11, 12 |
 |F5   | Bruttonasjonalprodukt (BNP)    | DC       | [Core Kap. 1](CORE/The Economy_ Unit 1 The capitalist revolution.pdf){:target='_blank_'}  |
 |F6     | Markedsøkonomien  | DC | [Core Kap. 1](CORE/The Economy_ Unit 1 The capitalist revolution.pdf){:target='_blank_'}   |
-|F7 | Case 1a: Bruttonasjonalprodukt - BNP | ØM       | [lenker til case og R kode](lenker_til_case_og_R_kode.md){:target='_blank_'} |
-|F8   | Case 1b: Årlig bruttonasjonalprodukt 1865-2011  | ØM  |  [lenker til case og R kode](lenker_til_case_og_R_kode.md){:target='_blank_'} |
+|F7 | Case 1: Bruttonasjonalprodukt - BNP | ØM       | [lenker til case og R kode](lenker_til_case_og_R_kode.md){:target='_blank_'} |
+|F8   | Case 2: Årlig bruttonasjonalprodukt 1865-2011  | ØM  |  [lenker til case og R kode](lenker_til_case_og_R_kode.md){:target='_blank_'} |
 |F9    | Grunnleggende begreper i samfunnsøkonomi           | DC | [Core Kap. 2](CORE/The Economy_ Unit 2 Technology, population, and growth.pdf){:target='_blank_'}   |
 |F10   | Økonomisk vekst og befolkningsvekst | DC | [Core Kap. 2](CORE/The Economy_ Unit 2 Technology, population, and growth.pdf){:target='_blank_'}   |
 |F11  | Case 3: Analyse av sammenhengen mellom økonomisk aktivitet (BNP), CO2-utslipp og global temperatur  | ØM | [lenker til case og R kode](lenker_til_case_og_R_kode.md){:target='_blank_'}  |
